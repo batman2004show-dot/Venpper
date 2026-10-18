@@ -1,0 +1,13 @@
+{
+  "name": "venpper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Toggleable client mods for Yapper.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.4.11"
+  }
+}
